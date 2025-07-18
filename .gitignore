@@ -1,0 +1,17 @@
+# Python/AI environments
+.ai-navigator/
+.aitk/
+
+# System folders
+AppData/
+
+# Old project copies
+plasma-dynamic-old/
+plasma-dynamic-clean/
+
+# Node modules
+node_modules/
+
+# Next.js defaults
+.next/
+out/
